@@ -5,7 +5,7 @@
 This project is part of my internship at "The Sparks Foundation," a renowned organization committed to promoting skill development, innovation, and research in the field of technology and data science. As an intern with The Sparks Foundation, I have undertaken a task that aligns with the organization's mission to foster learning and exploration.
 
 ## Objective
-This project focuses on predicting a student's exam score using a linear regression model. The primary input variable is the number of hours they dedicate to studying.
+Aims to predict a student's anticipated exam score by utilizing a linear regression model, with the input variable being the number of hours they have dedicated to studying.
 
 ## Table of Contents
 - [Data Source](#data-source)
@@ -50,7 +50,7 @@ The dataset used for this project can be found at [this link](http://bit.ly/w-da
 ## File Information
 
 - `data/`: Folder containing the dataset file.
-  - `student_scores.csv`: Dataset file used for analysis.
+  - `Task-1 GRIP.ipynb`: Dataset file used for analysis.
   
 - `notebook/`: Folder containing Jupyter notebook file.
   - `score_prediction.ipynb`: Jupyter notebook containing the code for the entire project.

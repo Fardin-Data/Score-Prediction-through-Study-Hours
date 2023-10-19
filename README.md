@@ -40,7 +40,7 @@ The dataset used for this project can be found at [this link](http://bit.ly/w-da
 - Utilized the Scikit-learn library for linear regression.
 
 ### Model Evaluation
-- Used the R-squared (r2_score) metric to assess model performance.
+- The performance of the model is evaluated using the R-squared (R2) score, which provides insights into how well the model fits the data. The R2 score ranges from 0 to 1, with a higher score indicating a better fit. In this project, the R2 score is 0.89, demonstrating the model's capability to predict scores based on study hours.
   
 ![image](https://github.com/Fardin-Data/Score-Prediction-through-Study-Hours/assets/137788371/56943ff5-4b32-451e-9492-35d3eb407f90)
 
@@ -50,10 +50,10 @@ The dataset used for this project can be found at [this link](http://bit.ly/w-da
 ## File Information
 
 - `data/`: Folder containing the dataset file.
-  - `Task-1 GRIP.ipynb`: Dataset file used for analysis.
+  - `student_scores`: Dataset file used for analysis.
   
 - `notebook/`: Folder containing Jupyter notebook file.
-  - `score_prediction.ipynb`: Jupyter notebook containing the code for the entire project.
+  - `Task-1 GRIP.ipynb`: Jupyter notebook containing the code for the entire project.
   
 - `model/`: Folder containing model file.
   - `score_prediction_model.pkl`: The trained machine learning model for score prediction.
